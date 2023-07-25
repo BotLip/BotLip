@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=411DF7&center=true&width=1000&lines=%E9%B8%A1%E4%BD%A0%E5%A4%AA%E7%BE%8E;Babe" alt="Typing SVG" /></a>
 
 <!--
 **BotLip/BotLip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +18,9 @@ Here are some ideas to get you started:
 
 ### BotLip [leetcode](https://leetcode-cn.com/u/BotLip/) <img src="https://raw.githubusercontent.com/Martinheinz/master/wave.gif" width = "20px">
 
-Problems solved: [[1]]
-Easy: [[2]]
-Medium: [[3]]
-Hard: [[4]]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BotLip&show_icons=true&theme=transparent" /> 
+</div>
+
+
 
